@@ -8,7 +8,7 @@
 
 **Архивный проект 2023 года** — аппарат точечной сварки двухимпульсный (разогрев + сварка) на базе STM32. Используется в комплекте с автомобильным аккумулятором, но подойдет любой высокотоковый 12в. Можно использовать конденсаторное питание, но я не тестировал, так как ставилась цель сотни непрерывных сварок подряд.
 
-<video src="./img/welding1.mp4" controlslist="nodownload" controls width="600"></video>
+https://github.com/user-attachments/assets/1fbc5b3e-b446-4555-8be0-63c3d0c397dd
 
 ## Возможности
 
@@ -41,7 +41,7 @@
 *Полная электрическая схема*
 
 Подробные файлы схемы:  
-- (в планах) ~~[KiCad проект → schematic.kicad_sch](hardware/schematics/)  ~~
+- (в планах) ~~[KiCad проект → schematic.kicad_sch](hardware/schematics/)~~
 - (в планах) ~~[Экспорт в PDF → schematic.pdf](hardware/schematics/schematic.pdf)~~
 
 ## Как открыть и собрать проект
